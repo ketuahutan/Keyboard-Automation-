@@ -1,4 +1,4 @@
-# Keyboard Automation (Read Conclusion)
+# Keyboard Automation (READ CONCLUSION)
 This is a project i made for myself that i use for macro-ing(?) for roblox or something else.
 # Why i made this?
 Autokey-gtk and qt didnt work for a reason and im waiting for the software to be updated/fix or for someone to find a workaround, i made this script to do macros on roblox, i named the file spam z because i use the z move for macro-ing(i dont know if this is the right term or not). 
