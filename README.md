@@ -1,4 +1,4 @@
-# Keyboard Automation 
+# Keyboard Automation (Read Conclusion)
 This is a project i made for myself that i use for macro-ing(?) for roblox or something else.
 # Why i made this?
 Autokey-gtk and qt didnt work for a reason and im waiting for the software to be updated/fix or for someone to find a workaround, i made this script to do macros on roblox, i named the file spam z because i use the z move for macro-ing(i dont know if this is the right term or not). 
@@ -15,4 +15,4 @@ or
 Depends on your system configuration
 
 # Conclusion
-I do not recommend using this at all since i havent tried it, i think ydotool is needed for wayland (which im in) to run this. lol.
+This would ran in a terminal but for macro-ing, it not viable. i think you need to use ydotool for it and configure the script yourself. You can still use this as a reference, who knows it will help
